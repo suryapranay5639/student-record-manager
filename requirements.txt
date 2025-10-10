@@ -1,0 +1,1 @@
+# No external dependencies (SQLite is part of Python standard library)
